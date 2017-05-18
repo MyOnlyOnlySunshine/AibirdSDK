@@ -1,0 +1,2 @@
+# AibirdSDK
+Aibird - > uoplay SDK 
