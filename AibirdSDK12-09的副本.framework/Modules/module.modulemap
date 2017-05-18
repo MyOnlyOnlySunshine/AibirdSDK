@@ -1,0 +1,6 @@
+framework module AibirdSDK {
+  umbrella header "AibirdSDK.h"
+
+  export *
+  module * { export * }
+}
